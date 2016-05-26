@@ -1,4 +1,4 @@
-package arhathq.global.domain
+package arhathq.global.configuration.domain
 
 
 /**

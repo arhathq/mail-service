@@ -1,8 +1,8 @@
-package arhathq.mail.domain
+package arhathq.mail.processing.domain
 
 import java.time.{ZoneId, ZonedDateTime}
 
-import arhathq.mail.domain.MailStatus.MailStatus
+import arhathq.mail.processing.domain.MailStatus.MailStatus
 
 /**
   * @author Alexander Kuleshov

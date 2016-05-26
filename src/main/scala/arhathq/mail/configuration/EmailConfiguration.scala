@@ -1,5 +1,4 @@
-package arhathq.mail.domain
-
+package arhathq.mail.configuration
 
 case class Email(id: Int, codename: String, description: String)
 case class EmailFlow(id: Int, configurationId: Int, emailId: Int, preProcess: String, postProcess: String, attachmentProcess: String)

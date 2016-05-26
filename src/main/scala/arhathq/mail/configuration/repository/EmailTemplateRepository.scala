@@ -1,6 +1,6 @@
-package arhathq.mail.repository
+package arhathq.mail.configuration.repository
 
-import arhathq.mail.domain.EmailTemplate
+import arhathq.mail.configuration.EmailTemplate
 
 import scala.concurrent.{ExecutionContext, Future}
 
